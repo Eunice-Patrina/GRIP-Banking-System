@@ -21,11 +21,8 @@
 		<main class="container p-5">
 			<a href="customers.php" ><button class="btn btn-dark btn-lg">View all customer</button></a>
 			<a href="history.php" ><button class="btn btn-dark btn-lg" type="submit">History</button></a>
+			<br><br><br><br>
+			<h3>Designed BY Eunice Patrina</h3>
 		</main>
-		
-		
-		<footer class="small text-center text-muted">
-            Banking System by Eunice Patrina
-        </footer>
 	</body>
 <html>
