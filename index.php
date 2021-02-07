@@ -27,4 +27,4 @@
 			<h3 style="text-align:right;font: italic small-caps bold 36px/2 cursive;">Designed BY <br>Eunice Patrina</h3>
 		</div>
 	</body>
-<html>
+</html>
