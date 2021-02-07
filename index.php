@@ -18,11 +18,13 @@
 		<h2 class="head" style="font: small-caps bold 30px/1 sans-serif;"> Homepage</h2>
 		<h1 class="fw-normal head" style="text-align:center;font: italic small-caps bold 36px/2 cursive;">Banking System</h1>
 		
-		<main class="container p-5">
-			<a href="customers.php" ><button class="btn btn-dark btn-lg">View all customer</button></a>
-			<a href="history.php" ><button class="btn btn-dark btn-lg" type="submit">History</button></a>
+		<div  style ="float:right; padding: 70px 90px;">	
+			<a href="customers.php"  ><button class="btn btn-dark btn-lg" >View all customer</button></a>
+			<br><br>
+			<a href="history.php" ><button class="btn btn-dark btn-lg" style="" type="submit">History</button></a>
+		
 			<br><br><br><br>
-			<h3>Designed BY Eunice Patrina</h3>
-		</main>
+			<h3 style="text-align:right;font: italic small-caps bold 36px/2 cursive;">Designed BY <br>Eunice Patrina</h3>
+		</div>
 	</body>
 <html>
